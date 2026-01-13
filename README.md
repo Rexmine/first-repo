@@ -7,4 +7,4 @@ This repository aim to initiate into git concepts.
 - A useless [file.txt](file.txt)
 - A random [french pancake recipe](french_pancake_recipe.txt)
 
-test edit 2
+the pen is blue
